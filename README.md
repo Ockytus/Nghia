@@ -1,2 +1,1 @@
-My research interests lie at the intersection of hardware and software in embedded systems 
-such as the design, development, and optimization of embedded systems.These are some of my assignment during study in Industrial University
+My research interests lie at the intersection of hardware and software in embedded systems such as the design, development, and optimization of embedded systems.These are some of my assignment during study in Industrial University. I'm gonna update this after every semesters.
